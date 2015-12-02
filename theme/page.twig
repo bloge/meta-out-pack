@@ -1,0 +1,13 @@
+{% extends 'layout.twig' %}
+
+{% block content %}
+    <h1>{{ title }}</h1>
+    
+    {{ content|raw }}
+    
+    {% if author %}
+    <p>
+        Post author is <b>{{ author }}</b>
+    </p>
+    {% endif %}
+{% endblock %}

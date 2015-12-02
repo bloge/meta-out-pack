@@ -1,0 +1,13 @@
+blog/hello:
+    title: 'Hello, world!'
+    author: 'Thor'
+
+blog/second-post:
+    title: 'Second post'
+    author: 'Thor'
+
+index:
+    title: 'Hello, world!'
+
+404:
+    title: '404 - Not Found'

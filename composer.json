@@ -1,0 +1,10 @@
+{
+    "name": "bloge/meta-out-pack",
+    "description": "Pack which keeps meta information out of content",
+    "require": {
+        "bloge/bloge": "dev-master",
+        "bloge/twig-renderer": "dev-master",
+        "erusev/parsedown": "^1.6",
+        "mustangostang/spyc": "^0.5.1"
+    }
+}
