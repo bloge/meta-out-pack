@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Dead simple example of Bloge application
+ * Bloge application
  * 
- * @package bloge/advanced-pack
+ * @package bloge/meta-out-pack
  */
 
 use Bloge\Apps\AdvancedApp;
